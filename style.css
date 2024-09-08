@@ -1,0 +1,43 @@
+.logo{
+    font-weight: bold;
+}
+.link{
+    font-weight: 700;
+}
+.img{
+    width: 70%;
+    height: 50%;
+    border: 2px solid #0d6efd;
+    border-radius: 5px;
+   
+}
+.img-div{
+    margin-left: 100px;
+}
+.icon{
+    display: flex;
+    gap: 20px;
+    font-size: 30px;
+  
+}
+.icon a{
+    text-decoration: none;
+   
+}
+
+.left{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.right{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+.text{
+    font-size: 30px;
+    font-weight: 500;
+}
+
